@@ -1,7 +1,11 @@
 # Memory-Pathfinder
-Repository for my submission to Pathfinder YSWS, from Hackclub.
+Repository for my submission to Pathfinder YSWS, from Hackclub. It's a memory game, it will play a sequence of colours through the LEDs and notes through the buzzer. You have to memorize it and play it back to win! Fool around with the buttons for some easter eggs  ;)
 # Schematic
-![Captura de Tela (89)](https://github.com/user-attachments/assets/a1941723-1b4a-48a3-9fc1-82a49dbe1702)
+![schematic_pathfinder](https://github.com/user-attachments/assets/1ab25d0a-3674-44d5-aede-acaedcf02e48)
+
 # PCB
-![Captura de Tela (91)](https://github.com/user-attachments/assets/a957505f-8d7e-49c2-980f-464b96045fe3)
-![Captura de Tela (87)](https://github.com/user-attachments/assets/15efb311-d0d1-4bfb-80fa-489a63b2564f)
+![pcb_front_pathfinder](https://github.com/user-attachments/assets/0e0a79d5-5d6c-45e8-9787-78e810b99817)
+![pcb_back_pathfinder](https://github.com/user-attachments/assets/84e7a624-c498-4bb3-9ea1-5ac18c4298bc)
+![pcb_editor_pathfinder](https://github.com/user-attachments/assets/e949fe90-91de-4460-9d7b-63d73124dedf)
+
+
